@@ -17,8 +17,10 @@ int main() {
         case 1:
             printf("You selected B.Tech CSE\n");
             break;
-        case 2:
+	case 2:
             printf("You selected B.Tech AIML\n");
+            printf("Welcome to the AI & Machine Learning Department!\n");
+            printf("Core subjects: Deep Learning, NLP, Computer Vision\n");
             break;
         case 3:
             printf("You selected B.Tech ECE\n");
