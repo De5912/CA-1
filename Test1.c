@@ -20,9 +20,12 @@ int main() {
         case 2:
             printf("You selected B.Tech AIML\n");
             break;
-        case 3:
+	    case 3:
             printf("You selected B.Tech ECE\n");
+            printf("Electronics and Communication Engineering focuses on circuits, signals, and networks.\n");
+            printf("You will study embedded systems, VLSI, and communication protocols.\n");
             break;
+
         case 4:
             printf("You selected B.Tech Mechanical\n");
             break;
