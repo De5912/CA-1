@@ -16,6 +16,8 @@ int main() {
     switch (choice) {
         case 1:
             printf("You selected B.Tech CSE\n");
+	    printf("Welcome to computer science department!\n");
+	    printf("Core subjects: DSA, OS, DMBS\n");
             break;
         case 2:
             printf("You selected B.Tech AIML\n");
