@@ -23,9 +23,12 @@ int main() {
         case 3:
             printf("You selected B.Tech ECE\n");
             break;
-        case 4:
+	    case 4:
             printf("You selected B.Tech Mechanical\n");
+            printf("Mechanical Engineering focuses on design, manufacturing, and thermal sciences.\n");
+            printf("You will study topics like fluid mechanics, robotics, and material science.\n");
             break;
+
         case 5:
             printf("Exiting program.\n");
             return 0;
