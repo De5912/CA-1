@@ -28,6 +28,7 @@ int main() {
             break;
         case 5:
             printf("Exiting program.\n");
+	    printf("......");
             return 0;
         default:
             printf("Invalid choice. Try again.\n");
